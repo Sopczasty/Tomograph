@@ -1,2 +1,2 @@
 # Tomograph
-Repository for Tomograph Simulation using back projection in Python [jupyter notebook]
+Project made for Informatics in Medicine on the Poznan University of Technology
